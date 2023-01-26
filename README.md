@@ -16,18 +16,17 @@ The chat with Walt has also been fully implemented which will be activated by pr
 In the chat we obviously play Michael, so we should write what Michael really wrote in the TV series to progress with the conversation. The sentences we will write may have different punctuation and/or lowercase/uppercase characters different from the original, it doesn't matter, they will work the same.
 
 HOW TO TRY IT ON A COMPUTER?
-Swan OS GitHub page: https://github.com/NikoMac10/Swan-Os
-1)Download the zipped iso from the project's GitHub page
-2)Extract and burn the iso image with the Rufus program on a usb stick.
-3)Check the following rufus settings: partition scheme (MBR), target system (Bios(or UEFI CSM)).
-4)Turn on the target computer and enter the bios and set the boot mode to (BIOS/Legacy).
-5)If necessary change the boot order of the devices, and put the stick as the first boot device.
-6)Enjoy the countdown ;)
+1) Download the zipped iso.
+2) Extract and burn the iso image with the Rufus program on a usb stick.
+3) Check the following rufus settings: partition scheme (MBR), target system (Bios(or UEFI CSM)).
+4) Turn on the target computer and enter the bios and set the boot mode to (BIOS/Legacy).
+5) If necessary change the boot order of the devices, and put the stick as the first boot device.
+6) Enjoy the countdown ;)
 
 If you want you can also test the iso with VMWare or virtualbox, just create the virtual machine and select the iso as boot device.
 
 HOW TO IMPORT THE PROJECT/SOURCE CODE?
-1)Do all the listed prerequisites : https://reactos.org/wiki/Building_ReactOS
-2)Create a new Cosmos Kernel on Visual Studio project
-3)Import the source code of Swan Os (copy and paste)
-4)Download and Install VMWare for debugging.
+1) Do all the listed prerequisites : https://reactos.org/wiki/Building_ReactOS
+2) Create a new Cosmos Kernel on Visual Studio project
+3) Import the source code of Swan Os (copy and paste)
+4) Download and Install VMWare for debugging.
