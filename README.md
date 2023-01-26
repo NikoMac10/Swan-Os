@@ -8,7 +8,7 @@ Other small differences are:
 1) The loading screen that anticipates the timer screen has not been shown in the TV series, however i wanted to add it because it is very scenic and pretty.
 2) Beep sound, unfortunately due to some software limitations they are not exactly the same and in some computers they cannot be heard.
 
-For the rest everything you see and hear is quite faithful to how it happened in the computer of the swan station, the numbers can only be entered when there are less than 4 minutes left, when there are less than 4 minutes left a beep is heard every 2 seconds, when there less than 1 minute a more aggressive beep is heard every 2 seconds, when there are less than 10 seconds left until the timer expires and until the sequence is entered a very aggressive beep is heard every second.
+For the rest everything you see and hear is quite faithful to how it happened in the computer of the swan station, the numbers can only be entered when there are less than 4 minutes left, when there are less than 4 minutes left a beep is heard every 2 seconds, when there less than 1 minute a more aggressive beep is heard every 2 seconds, when there are less than 10 seconds left until the sequence is entered a very aggressive beep is heard every second.
 
 When the timer expires the red hieroglyphs will appear on the timer (what you see was the best i could do with a console that only shows CP437 characters) and the wording "System Failure" will repeatedly appear on the screen, from now on if not the lost numbers will be typed in the console within a few seconds, the computer will turn off.
 
