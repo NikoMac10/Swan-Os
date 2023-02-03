@@ -8,8 +8,8 @@ namespace Swan
 {
     public class Kernel : Sys.Kernel
     {
-        private int min = 4;
-        private int sec = 30;
+        private int min = 108;
+        private int sec = 0;
         private String totalString = "";
         private String stringFailure = "";
         private double wait;
@@ -287,10 +287,11 @@ namespace Swan
                         }
                         else if (appo.Key == ConsoleKey.Enter)
                         {
-                            if (totalString.Substring(2).Equals("4 8 15 16 23 42"))
+                            if (totalString.Substring(2).Equals("4 8 15 16 23 42"))  
                             {
+                                //resetting count-down timer
                                 totalString = "";
-                                min = 108;
+                                min = 108;                  
                                 sec = 0;
                                 hieroglyphs = false;
                                 firstTime = true;
